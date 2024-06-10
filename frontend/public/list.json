@@ -1,0 +1,40 @@
+[{
+    "id":1,
+    "name":"story book",
+    "title":"Tale of Naruto Uzumaki",
+    "price":0,
+    "category":"free",
+    "image":"https://img.freepik.com/free-photo/books-stack-wooden-table_23-2148898286.jpg?t=st=1716452511~exp=1716456111~hmac=a15c2b2bed0ec36f3b6c9b56a454d09ede8c363e94fed1f14f133946bd90a78a&w=1060"
+},
+{
+    "id":2,
+    "name":"comedy book",
+    "title":"Tale of Naruto Uzumaki",
+    "price":10,
+    "category":"comedy",
+    "image":"https://img.freepik.com/free-photo/books-stack-wooden-table_23-2148898286.jpg?t=st=1716452511~exp=1716456111~hmac=a15c2b2bed0ec36f3b6c9b56a454d09ede8c363e94fed1f14f133946bd90a78a&w=1060"
+},
+{
+    "id":3,
+    "name":"dance book",
+    "title":"Tale of Naruto Uzumaki",
+    "price":0,
+    "category":"free",
+    "image":"https://img.freepik.com/free-photo/books-stack-wooden-table_23-2148898286.jpg?t=st=1716452511~exp=1716456111~hmac=a15c2b2bed0ec36f3b6c9b56a454d09ede8c363e94fed1f14f133946bd90a78a&w=1060"
+},
+{
+    "id":4,
+    "name":"food book",
+    "title":"Tale of Naruto Uzumaki",
+    "price":50,
+    "category":"food",
+    "image":"https://img.freepik.com/free-photo/books-stack-wooden-table_23-2148898286.jpg?t=st=1716452511~exp=1716456111~hmac=a15c2b2bed0ec36f3b6c9b56a454d09ede8c363e94fed1f14f133946bd90a78a&w=1060"
+},
+{
+    "id":5,
+    "name":"music book",
+    "title":"Tale of Naruto Uzumaki",
+    "price":80,
+    "category":"music",
+    "image":"https://img.freepik.com/free-photo/books-stack-wooden-table_23-2148898286.jpg?t=st=1716452511~exp=1716456111~hmac=a15c2b2bed0ec36f3b6c9b56a454d09ede8c363e94fed1f14f133946bd90a78a&w=1060"
+}]
